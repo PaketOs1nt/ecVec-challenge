@@ -1,5 +1,7 @@
 # ecVec Challenge by @paketpksoftware (@paketls) (telegram)
 
+required python 3.12!! no marshal used, Python 3.12 optimizations + broke one thing with locals
+
 ## Goal
 Recover the original program logic and implement a decoder for the custom encoding scheme.
 
