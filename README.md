@@ -15,7 +15,6 @@ This challenge uses multiple protection layers designed to complicate static and
 - Additional fun techniques
 
 ## Winners:
-...
-but nobody came
+1. Claude Opus 4.8
 
 <img width="830" height="768" alt="photo_2026-01-20_00-32-57" src="https://github.com/user-attachments/assets/fb9c8793-f17a-48aa-a9b2-4bfff0bdd1e0" />
