@@ -1,4 +1,4 @@
-# ecVec Challenge by @paketpksoftware (@paketls) (telegram)
+# ecVec Challenge
 
 required python 3.12!! no marshal used, Python 3.12+ optimizations broke one thing with locals
 
